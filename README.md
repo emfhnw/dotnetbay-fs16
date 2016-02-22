@@ -23,6 +23,9 @@ The following products / tools are needed to contribute / fork.
 * Jetbrains ReSharper (optional). [https://www.jetbrains.com/student/](https://www.jetbrains.com/student/ "https://www.jetbrains.com/student/")
 * StyleCop Rules (optional, VS 2015 only). [https://johnkoerner.com/csharp/using-analyzers-in-your-projects/] ("https://johnkoerner.com/csharp/using-analyzers-in-your-projects/") 
 
+## Team members
+Emanuel Mistretta
+Marco Gaiffi
 
 **For Pleasure**
 * SourceTree [http://www.sourcetreeapp.com/](http://www.sourcetreeapp.com/ "http://www.sourcetreeapp.com/")
